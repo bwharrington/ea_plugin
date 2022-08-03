@@ -25,6 +25,12 @@ Running the Right Pannel
 
 In a seperate terminal
 
-1 - cd C:\Projects\lucid-plugin\ea_plugin\ea_lucid_plugin\editorextensions\angular_panel\rightpanel
+1 - Change Directory to
+    cd C:\{project directory}\lucid-plugin\ea_plugin\ea_lucid_plugin\editorextensions\angular_panel
 
-2 - run npx ng serve
+2 - Run
+    npm install @angular/cli webpack-shell-plugin-next inliner
+
+3 - cd C:\{project directory}\lucid-plugin\ea_plugin\ea_lucid_plugin\editorextensions\angular_panel\rightpanel
+
+4 - run npx ng serve
