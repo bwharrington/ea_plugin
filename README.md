@@ -20,3 +20,11 @@ To get up and running, pull the code into a directory.
 6 - Create a new Blank document. You should see the Developer tab in the document. Click the developer tab and click "Load local extension"
     The page should refresh itself and you should see an extension tab next to the developer tab. 
     Click the Extensions tab and you should see your extension "EA_Lucid_Extension" name "Test Thing" as of 8/3/22.
+    
+Running the Right Pannel
+
+In a seperate terminal
+
+1 - cd C:\Projects\lucid-plugin\ea_plugin\ea_lucid_plugin\editorextensions\angular_panel\rightpanel
+
+2 - run npx ng serve
