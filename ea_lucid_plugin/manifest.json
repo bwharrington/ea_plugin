@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "version": "1.0.0",
+  "extensions": [
+    {
+      "name": "ea_lucid_extension",
+      "title": "ea_lucid_extension",
+      "product": "chart",
+      "codePath": "editorextensions/ea_lucid_extension/bin/extension.js",
+      "scopes": [
+        "READ",
+        "WRITE",
+        "DOWNLOAD",
+        "SHOW_MODAL",
+        "CUSTOM_UI",
+        "NETWORK"
+      ]
+    }
+  ],
+  "shapeLibraries": [],
+  "oauthProviders": []
+}
